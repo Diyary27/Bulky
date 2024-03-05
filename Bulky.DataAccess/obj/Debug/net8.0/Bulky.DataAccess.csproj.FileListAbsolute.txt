@@ -8,8 +8,9 @@ C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug
 C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
 C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
 C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CopyComplete
 C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
 C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
 C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+c:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json
+C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
