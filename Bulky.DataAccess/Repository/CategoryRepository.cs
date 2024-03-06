@@ -12,7 +12,7 @@ namespace Bulky.DataAccess.Repository.IRepository
         }
         public void Update(Category category)
         {
-            _db.Update(category);
+            _db.categories.Update(category);
         }
     }
 }

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\Bulky.DataAccess\\Migrations\\20240306070406_AddImageUrlToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bulky.DataAccess\\Migrations\\20240306070406_AddImageUrlToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|c:\\users\\diyar\\desktop\\my files\\projects\\dotnet\\bulky\\bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|c:\\users\\diyar\\desktop\\my files\\projects\\dotnet\\bulky\\bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|c:\\users\\diyar\\desktop\\my files\\projects\\dotnet\\bulky\\bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|c:\\users\\diyar\\desktop\\my files\\projects\\dotnet\\bulky\\bulkyweb\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|c:\\users\\diyar\\desktop\\my files\\projects\\dotnet\\bulky\\bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54EAF55F-9263-496E-A624-B9A0AA9D1D8F}|Bulkyweb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +38,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20240306070406_AddImageUrlToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\Bulky.DataAccess\\Migrations\\20240306070406_AddImageUrlToProduct.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240306070406_AddImageUrlToProduct.cs",
+              "ToolTip": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\Bulky.DataAccess\\Migrations\\20240306070406_AddImageUrlToProduct.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240306070406_AddImageUrlToProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:04:06.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T06:25:35.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAiwB8AAAArAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-05T16:07:26.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAowDIAAAAtAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwBYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T15:34:19.632Z",
               "EditorCaption": ""
@@ -62,7 +96,7 @@
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\diyar\\Desktop\\my files\\projects\\dotnet\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-05T15:36:22.669Z",
               "EditorCaption": ""
