@@ -10,3 +10,4 @@ C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.Models\obj\Debug\net
 C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
 C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
 c:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.sourcelink.json
+C:\Users\diyar\Desktop\my files\projects\dotnet\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
