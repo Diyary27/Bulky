@@ -1,6 +1,7 @@
 using System.Linq.Expressions;
 using Bulky.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace Bulky.DataAccess.Repository
 {
@@ -27,9 +28,38 @@ namespace Bulky.DataAccess.Repository
             return query.FirstOrDefault();
         }
 
+        public T Get(Expression<Func<T, bool>> filter, string includes)
+        {
+            IQueryable<T> query = dbSet;
+            query = query.Where(filter);
+
+            var splittedInclude = includes.Split(',');
+            foreach (var item in splittedInclude)
+            {
+                query = query.Include(item);
+            }
+
+            return query.FirstOrDefault();
+
+        }
+
         public IEnumerable<T> GetAll()
         {
             IQueryable<T> query = dbSet;
+            return query;
+        }
+
+        public IEnumerable<T> GetAll(string includes)
+        {
+            IQueryable<T> query = dbSet;
+
+            var splittedInclude = includes.Split(',');
+            
+            foreach (var item in splittedInclude)
+            {
+                query = query.Include(item);
+            }
+
             return query;
         }
 
